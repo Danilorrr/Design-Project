@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.top {
+    padding-left: 75px;
+    padding-right: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+.form{
+    position: absolute;
+    padding:20px;
+    right:37.5%;
+}
+
+.chase{
+    position: absolute;
+    right:7%;
+}

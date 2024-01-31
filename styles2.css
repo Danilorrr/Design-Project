@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.top {
+    padding-left: 75px;
+    padding-right: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.game {
+    position: absolute;
+    right:89%;
+    top:15%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.game-2 {
+    position: absolute;
+    top:23%;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.game-3 {
+    position: absolute;
+    top:35%;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.downs {
+    position: absolute;
+    top:47%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.downs-2 {
+    position: absolute;
+    top:56%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:18px;
+}
+
+.scoring {
+    position: absolute;
+    right:91%;
+    top:73%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.touchdown {
+    position: absolute;
+    right:81%;
+    top:80%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.score {
+    position: absolute;
+    top:87%;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.field {
+    position: absolute;
+    top:97%;
+    right:82%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.score-2 {
+    position: absolute;
+    top:103%;
+    font-size:18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.extra {
+    position: absolute;
+    top: 113%;
+    right:78%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.extra-2 {
+    position: absolute;
+    top: 119%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:18px;
+}
+
+.field-2 {
+    position: absolute;
+    right:25%;
+    bottom:48%;
+}
+
+.uprights {
+    position: absolute;
+    top:67%;
+    right:15%;
+}

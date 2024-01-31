@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.top {
+    padding-left: 75px;
+    padding-right: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+.afc{
+    position: absolute;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:100px;
+    right:3%;
+    bottom:65%;
+}
+
+.afc-2{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    right:1%;
+    bottom:63%;
+}
+
+.nfc{
+    position: absolute;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:100px;
+    right:3%;
+    bottom:10%;
+}
+
+.nfc-2{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    right:1.5%;
+    bottom:8%;
+}
+
+.website{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    bottom:37%;
+    padding:5px;
+}
